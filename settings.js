@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['919654934474'] //ur owner number
+global.ownernomer = "919654934474" //ur owner number2
+global.ownername = "KING B2K ✓" //ur owner name
+global.ytname = "Daniel Rajput" //ur yt chanel name
+global.socialm = "GitHub: KING B2K ✓" //ur github or insta name
+global.location = "India, New Delhi" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.botname = "KING B2K BOT ✓"
+global.ownernumber = '919654934474'
+global.ownername = 'KING B2K ✓'
+global.ownerNumber = ["919654934474@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com"
+global.websitex = "https://www.instagram.com/kingb2kofficial?igsh=MTY4ZzE0dmN0cTVxbg=="
+global.wagc = "https://chat.whatsapp.com/Bkp0IXmbNhF2h4jZbH5I34"
+global.themeemoji = '🤤'
+global.wm = "KING B2K ✓ Inc."
+global.botscript = 'https://github.com/Danielrajput2/CheemsBot-MD8' //script link
+global.packname = "KING B2K ✓"
+global.author = "NAVU❤️\n\n"
+global.creator = "919654934474@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
