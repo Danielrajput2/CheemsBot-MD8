@@ -3345,15 +3345,22 @@ Copy the link above and type the .ytmp3 link for audio and the .ytmp4 link for v
 XeonBotInc.sendMessage(m.chat, { image : eek, caption: ngen }, { quoted: m})
 }
 break
+
 import ytCommands from './src/commands/ytcommands.js';
 
-// inside switch case
-case 'play':
-case 'ytmp3':
-case 'ytmp4':
-case 'song':
-case 'ytvideo':
-    ytCommands(sock, m, command, args);
+switch(command) {
+    // Updated YouTube commands
+    case 'play':
+    case 'ytmp3':
+    case 'ytmp4':
+    case 'song':
+        ytCommands(sock, m, command, args);
+        break;
+
+    // ---- Existing commands आगे जैसे ही रहेंगे ----
+    // ...
+}
+
 break 
 case 'getcase':
 if (!XeonTheCreator) return XeonStickOwner()
