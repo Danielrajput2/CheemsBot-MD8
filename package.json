@@ -61,7 +61,7 @@
     "multistream": "^2.1.0",
     "mumaker": "^1.0.0",
     "node-cron": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.2",
     "node-id3": "^0.2.3",
     "node-webpmux": "^3.1.0",
     "node-youtube-music": "^0.8.3",
@@ -89,7 +89,9 @@
     "yargs": "^17.2.1",
     "youtube-yts": "^2.0.0",
     "ytdl-core": "^4.11.4",
-    "youtubedl-core": "^4.11.4"
+    "youtubedl-core": "^4.11.4",
+    "play-dl": "^1.9.6",
+    "yt-search": "^2.10.4"
   },
   "repository": {
     "type": "git",
